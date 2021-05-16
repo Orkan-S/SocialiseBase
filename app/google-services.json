@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "495869476391",
+    "project_id": "socialisebase",
+    "storage_bucket": "socialisebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495869476391:android:d0cfd2be7a137bb40bd802",
+        "android_client_info": {
+          "package_name": "com.orkansahinoglu.socialisebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495869476391-kgc51dq4gglonfh8e5db58a5ha5a50lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orkansahinoglu.socialisebase",
+            "certificate_hash": "5a886547eda507eb346de71334fd10dad6167316"
+          }
+        },
+        {
+          "client_id": "495869476391-m5c1dqlans9t3jarobcumnfra71ab102.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwXz1weulhXHrRk0E6r9R20XcNg3qIolg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495869476391-m5c1dqlans9t3jarobcumnfra71ab102.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

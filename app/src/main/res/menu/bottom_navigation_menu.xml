@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/tab_home_foreground"
+        android:title="">
+
+    </item>
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/tab_search_foreground"
+        android:title="">
+
+    </item>
+
+    <item
+        android:id="@+id/post"
+        android:icon="@drawable/tab_post_foreground"
+        android:title="">
+
+    </item>
+
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/tab_notifications_foreground"
+        android:title="">
+
+    </item>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/tab_profile_foreground"
+        android:title="">
+
+    </item>
+
+</menu>
